@@ -1,15 +1,26 @@
 ---
 layout: page
 title: About
-tagline: A few more words about this theme
+tagline: 
 permalink: /about.html
 ref: about
 order: 0
 ---
 
-This is the _Cayman Blog_ Jekyll theme. You can find out more info about customizing this theme, as well as basic usage documentation, and source code at: [cayman-blog](https://github.com/lorepirri/cayman-blog)
+## Personal Information
 
-You can find the source code for _Jekyll_ at [jekyll](https://github.com/jekyll/jekyll)
+Full name: Phuoc Loc Dinh ( Middle, Last, First )
+Location: Ho Chi Minh City, Vietnam
+Fields of interest: Applying Machine Learning, Deep Learning techniques in solving Image Processing problems, such as Image Super Resolution, Image enhancement, Object detection
+
+-----
+
+## Education
+
+### Ho Chi Minh City University of Technology, Vietnam
+* Time: Aug 2017 – Jun 2021
+* Bachelor of Engineering in Electrical and Electronics Engineering
+
 
 
 [Go to the Home Page]({{ '/' | absolute_url }})
