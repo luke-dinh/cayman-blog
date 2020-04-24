@@ -8,10 +8,10 @@
 layout: home
 ---
 
-Cayman Blog Theme is a clean, responsive blogging theme for Jekyll. It is inspired by the Cayman Theme for Github Pages, which can be greatly used for single projects but not as blogging platform.
+<p align="center">
+  ![28577223_1506185619503827_5867517421350724774_n](https://user-images.githubusercontent.com/51883796/80192753-df906580-8641-11ea-9ec9-3a4bb1319818.jpg)
+</p>
 
-This theme has instead all you need to start today blogging with Jekyll, and no effort: pages, posts, few social buttons. Try loading this on mobile too.
+My name is Phuoc Loc Dinh (Middle, Last, First), from Ho Chi Minh city, Vietnam. I am studying Electronics and Telecommunication Engineering at Ho Chi Minh city University of Technology. 
 
-Have a look at the Github page for more information.
-
-You find this descriptive text in the `index.md` file, so you can change it, or remove it completely, according to your needs.
+My major fields are Image Processing, applying Machine Learning and Deep Learning techniques in solving Computer Vision problems. I am also interested in Data Mining. I have good abilities in Image Super Resolution, Object Detection, Image enhancement problems 
