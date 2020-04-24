@@ -2,6 +2,7 @@
 layout: page
 title: Contact
 tagline: 
+permalink: /contact.html
 ref: contact
 order: 3
 ---
