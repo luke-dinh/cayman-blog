@@ -10,7 +10,9 @@ order: 0
 ## Personal Information
 
 Full name: Phuoc Loc Dinh ( Middle, Last, First )
+
 Location: Ho Chi Minh City, Vietnam
+
 Fields of interest: Applying Machine Learning, Deep Learning techniques in solving Image Processing problems, such as Image Super Resolution, Image enhancement, Object detection
 
 -----
@@ -21,6 +23,18 @@ Fields of interest: Applying Machine Learning, Deep Learning techniques in solvi
 * Time: Aug 2017 – Jun 2021
 * Bachelor of Engineering in Electrical and Electronics Engineering
 
+-----
 
+## Achievements 
+
+* Consolation Prize: Robot Creation Contest for Freshman
+
+A competition which was organized by Faculty of Electrical and Electronics Engineering, Ho Chi Minh City University of Technology for freshman. The aim was to create and program a robot using Arduino and light sensors to track the line.
+
+* Completed Machine Learning course on Coursera
+
+An online non-credit course authorized by Stanford University and offered through Coursera
+
+Final Score: 97.6/100
 
 [Go to the Home Page]({{ '/' | absolute_url }})
