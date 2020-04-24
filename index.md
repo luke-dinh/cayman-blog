@@ -9,7 +9,7 @@ layout: home
 ---
 
 <p align="center">
-  ![28577223_1506185619503827_5867517421350724774_n](https://user-images.githubusercontent.com/51883796/80192753-df906580-8641-11ea-9ec9-3a4bb1319818.jpg)
+  <img src = "https://user-images.githubusercontent.com/51883796/80192753-df906580-8641-11ea-9ec9-3a4bb1319818.jpg">
 </p>
 
 My name is Phuoc Loc Dinh (Middle, Last, First), from Ho Chi Minh city, Vietnam. I am studying Electronics and Telecommunication Engineering at Ho Chi Minh city University of Technology. 
