@@ -124,7 +124,7 @@ Tài liệu tham khảo:
 
 [3] Machine Learning Cơ Bản https://machinelearningcoban.com/
 
-[4] https://viblo.asia/p/nhung-cau-hoi-trong-phong-van-deep-learning-p1
+[4] https://viblo.asia/p/nhung-cau-hoi-trong-phong-van-deep-learning-p1-YWOZrbPpZQ0
 
 [Go to the Home Page]({{ '/' | absolute_url }})
   
