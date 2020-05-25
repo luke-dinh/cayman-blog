@@ -9,11 +9,9 @@ order: 0
 
 ## Personal Information
 
-Full name: Phuoc Loc Dinh ( Middle, Last, First )
-
-Location: Ho Chi Minh City, Vietnam
-
-Fields of interest: Applying Machine Learning, Deep Learning techniques in solving Image Processing problems, such as Image Super Resolution, Image enhancement, Object detection
+* Full name: Phuoc Loc Dinh ( Middle, Last, First )
+* Location: Ho Chi Minh City, Vietnam
+* Fields of interest: Applying Machine Learning, Deep Learning techniques in solving Image Processing problems, such as Image Super Resolution, Image enhancement, Object detection
 
 -----
 
