@@ -25,4 +25,4 @@ facebook:
   app_id: 1798910940422432 # cayman-blog
   #authors: lorepirri
 
-header_page_refs: ['now', 'about', 'posts', 'projects' , 'contact']
+header_page_refs: ['about', 'posts', 'projects' , 'contact']
