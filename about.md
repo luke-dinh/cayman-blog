@@ -37,4 +37,6 @@ An online non-credit course authorized by Stanford University and offered throug
 
 Final Score: 97.6/100
 
+Certificate: "https://coursera.org/share/42be8c61f39c7a372fb8fb9f2cd9bf41"
+
 [Go to the Home Page]({{ '/' | absolute_url }})
