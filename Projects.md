@@ -67,7 +67,7 @@ order: 1
 * **Description**: I am researching about Deep Learning approaches in Single Image Super Resolution field. I am reading about Generative
 Adversarial Network (GAN) and constructing a model to solve the problem.
 * **Target**: A Deep Learning model creating a new image with high resolution from a low resolution counterpart. 
-* **Language**: Python + PyTorch/Keras.
+* **Language**: Python + PyTorch/Tensorflow.
 
 ------
 [Go to the Home Page]({{ '/' | absolute_url }})
