@@ -13,7 +13,7 @@ order: 0
 * D.O.B: 15/01/1999.
 * Location: Ho Chi Minh City, Vietnam.
 * University: Ho Chi Minh City University of Technology.
-* Major: Electronics and Telecommunication Engineering.
+* Major: Electronics -- Telecommunications Engineering.
 * Fields of interest: Digital Signal Processing, applying Machine Learning, Deep Learning techniques in solving Image Processing problems, such as Image Super Resolution, Image enhancement, Object detection.
 
 -----
