@@ -14,7 +14,7 @@ order: 0
 * Location: Ho Chi Minh City, Vietnam.
 * University: Ho Chi Minh City University of Technology.
 * Major: Electronics and Telecommunication Engineering.
-* Fields of interest: Applying Machine Learning, Deep Learning techniques in solving Image Processing problems, such as Image Super Resolution, Image enhancement, Object detection.
+* Fields of interest: Digital Signal Processing, applying Machine Learning, Deep Learning techniques in solving Image Processing problems, such as Image Super Resolution, Image enhancement, Object detection.
 
 -----
 
@@ -31,6 +31,8 @@ order: 0
 * Consolation Prize: Robot Creation Contest for Freshman.
 
 A competition which was organized by Faculty of Electrical and Electronics Engineering, Ho Chi Minh City University of Technology for freshman. The aim was to create and program a robot using Arduino and light sensors to track the line.
+
+[Certificate.pdf](https://github.com/luke-dinh/Image-Super-Resolution/files/4692947/Certificate.pdf)
 
 * Completed Machine Learning course on Coursera.
 .
