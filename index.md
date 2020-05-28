@@ -12,6 +12,6 @@ layout: home
   <img src = "https://user-images.githubusercontent.com/51883796/82773022-2359d300-9e6b-11ea-86bd-7d13041e017f.jpg">
 </p>
 
-My name is Phuoc Loc Dinh (Middle, Last, First), from Ho Chi Minh city, Vietnam. I am studying Electronics and Telecommunication Engineering at Ho Chi Minh city University of Technology. 
+My name is Phuoc Loc Dinh (Middle, Last, First), from Ho Chi Minh city, Vietnam. I am studying Electronics and Telecommunications Engineering at Ho Chi Minh city University of Technology. 
 
 My major fields are Image Processing, applying Machine Learning and Deep Learning techniques in solving Computer Vision problems. I am also interested in Data Mining. I have good abilities in Image Super Resolution, Object Detection, Image enhancement problems 
