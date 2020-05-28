@@ -7,9 +7,7 @@ ref: posts
 order: 1
 ---
 
-## Những kiến thức cơ bản về Deep Learning - Phần 1
-
-* **Lời nói đầu**: Bản thân mình mong muốn được chia sẻ những gì mình biết về AI - ML - DL đến cho mọi người như là một cách để ôn lại kiến thức, nên mình viết blog bằng tiếng Việt để lưu giữ lại kiến thức mình học được. Okay bắt đầu nào.
+## Những kiến thức cơ bản về Deep Learning 
 
 * **1. Nơ ron (neural): Cảm hứng của tất cả**
 
