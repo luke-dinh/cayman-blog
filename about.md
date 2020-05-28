@@ -32,7 +32,7 @@ order: 0
 
 A competition which was organized by Faculty of Electrical and Electronics Engineering, Ho Chi Minh City University of Technology for freshman. The aim was to create and program a robot using Arduino and light sensors to track the line.
 
-[Certificate.pdf](https://github.com/luke-dinh/Image-Super-Resolution/files/4692947/Certificate.pdf)
+[Certificate](https://github.com/luke-dinh/Image-Super-Resolution/files/4692947/Certificate.pdf)
 
 * Completed Machine Learning course on Coursera.
 .
