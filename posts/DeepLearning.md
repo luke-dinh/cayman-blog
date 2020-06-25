@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Posts
-tagline: 
+tagline: /posts.html
 permalink: /posts/DeepLearning.html
 ref: posts
 order: 1
