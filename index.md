@@ -9,7 +9,7 @@ layout: home
 ---
 
 <p align="center">
-  <img src = "https://user-images.githubusercontent.com/51883796/82773022-2359d300-9e6b-11ea-86bd-7d13041e017f.jpg">
+  <img src = "https://user-images.githubusercontent.com/51883796/85698072-86f24d00-b704-11ea-948e-162378f3d6fc.jpg">
 </p>
 
 My name is Phuoc Loc Dinh (Middle, Last, First), from Ho Chi Minh city, Vietnam. I am studying Electronics and Telecommunications Engineering at Ho Chi Minh city University of Technology. Currently, I am working as an AI Engineer (intern) at [MTI Technology, Vietnam](http://mti-vietnam.vn).
