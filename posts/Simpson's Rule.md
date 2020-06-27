@@ -22,5 +22,5 @@ order: 2
   <img src = "https://user-images.githubusercontent.com/51883796/85844625-385cb580-b7cd-11ea-808e-5ee0438ef324.PNG">
  </p>
 
-
+Lấy ví dụ thực hành cho dễ luôn, ta sẽ lấy ví dụ là bảng số liệu sau: 
 
