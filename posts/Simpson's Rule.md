@@ -64,7 +64,7 @@ Chúng ta đã có n = 6, và dễ thấy, 6 chia hết cho 3, vì vậy ta có 
 
 Dựa vào công thức ở trên, ta sẽ tính thặng dư khi q = 24 dựa vào Simpson 1/3 như sau: 
 
-sum (consumer's surplus) = (h/3) * (p1 + 4*p2 + 2*p3 + 4*p4 + 2*p5 + 4*p6 +p7) = 4/3 * (49.12 + 4*42.9 + 2*31.32 + 4*19.83 + 2*13.87 + 4*10.58 + 7.25) = 586.65
+sum (consumer's surplus) = (h/3) * (p1 + 4*p2 + 2*p3 + 4*p4 + 2*p5 + 4*p6 +p7) = 4/3 * (49.12 + 4* 42.9 + 2* 31.32 + 4* 19.83 + 2* 13.87 + 4* 10.58 + 7.25) = 586.65
 
 Dễ thấy, ứng với q = 2,4,6,... thì ta nhân 4 rồi cộng lại, với q = 3,5,... thì ta nhân 2 rồi cộng lại, q đầu tiên và q cuối cùng ta không nhân với gì cả, để nguyên thôi. Vậy là xong Simpson 1/3 rồi nhé. 
 
@@ -72,7 +72,7 @@ Dễ thấy, ứng với q = 2,4,6,... thì ta nhân 4 rồi cộng lại, với
 
 Công thức ở trên nhìn rõ kinh khủng, nhưng khi viết ra thì cũng tương tự như Simpson 1/3 thôi nên đừng hoảng loạn =))
 
-sum (consumer's surplus) = (3*h/8) * (p1 + 3*p2 + 3*p3 + 2*p4 + 3*p5 + 3*p6 +p7) = 3/2 * (49.12 + 3*42.9 + 3*31.32 + 2*19.83 + 3*13.87 + 3*10.58 + 7.25) = 588.06
+sum (consumer's surplus) = (3*h/8) * (p1 + 3*p2 + 3*p3 + 2*p4 + 3*p5 + 3*p6 +p7) = 3/2 * (49.12 + 3* 42.9 + 3* 31.32 + 2* 19.83 + 3* 13.87 + 3* 10.58 + 7.25) = 588.06
 
 Hơi rắc rối tí nhỉ, okay để tóm gọn thì ta sẽ quy định như thế này, 
 - Ứng với p2, p5, p8, ... thì ta lấy 3 * (p(i) + p(i+1)). Ví dụ trong bảng trên ta có: p2 = 42.9 => p3 = 31.32 thì ta lấy 3*(p2 + p3), tiếp theo ta có p5 = 13.87 => p6 = 10.58, ta lấy 3*(p5 + p6). Ta tính tất cả các tổng con như vậy rồi sau đó cộng hết lại, ra được 1 tổng lớn. 
