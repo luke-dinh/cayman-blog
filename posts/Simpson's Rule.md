@@ -64,7 +64,7 @@ Chúng ta đã có n = 6, và dễ thấy, 6 chia hết cho 3, vì vậy ta có 
 
 Dựa vào công thức ở trên, ta sẽ tính thặng dư khi q = 24 dựa vào Simpson 1/3 như sau: 
 
-sum (consumer's surplus) = (h/3) * (p1 + 4*p2 + 2*p3 + 4*p4 + 2*p5 + 4*p6 +p7) = 4/3 * (49.12 + 4* 42.9 + 2* 31.32 + 4* 19.83 + 2* 13.87 + 4* 10.58 + 7.25) = 586.65
+sum (consumer's surplus) = (h/3) * (p1 + 4*p2 + 2*p3 + 4*p4 + 2*p5 + 4*p6 +p7) = 4/3 x (49.12 + 4x42.9 + 2x1.32 + 4x19.83 + 2x13.87 + 4x10.58 + 7.25) = 586.65
 
 Dễ thấy, ứng với q = 2,4,6,... thì ta nhân 4 rồi cộng lại, với q = 3,5,... thì ta nhân 2 rồi cộng lại, q đầu tiên và q cuối cùng ta không nhân với gì cả, để nguyên thôi. Vậy là xong Simpson 1/3 rồi nhé. 
 
