@@ -58,11 +58,11 @@ order: 1
 ------
 
 ## Image Super - Resolution using Deep Learning Techniques
-*Major Project - Thesis Proposal*
+*Major Project*
 
 [https://github.com/luke-dinh/Image-Super-Resolution](https://github.com/luke-dinh/Image-Super-Resolution)
 
-* **Time**: Jan 2020 - now.
+* **Time**: Jan 2020 - July 2020.
 * **Role**: Individual.
 * **Description**: I am researching about Deep Learning approaches in Single Image Super Resolution field. I am reading about Generative
 Adversarial Network (GAN) and constructing a model to solve the problem.
