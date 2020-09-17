@@ -7,6 +7,56 @@ ref: projects
 order: 1
 ---
 
+## Optical Character Recognition Project
+*Conducted at AI Lab - MTI Technology Vietnam*
+
+* **Time**: June 2020 - September 2020.
+* **Role**: AI Engineer Intern
+* **Description**: Generating data (drug prescription templates), labeling the data, doing Data Augmentation for OCR Project.
+* **Result**: Finished all the tasks above.
+
+-----
+
+## Image Super - Resolution using Deep Learning Techniques
+*Major Project*
+
+[https://github.com/luke-dinh/Image-Super-Resolution](https://github.com/luke-dinh/Image-Super-Resolution)
+
+* **Time**: Jan 2020 - July 2020.
+* **Role**: Individual.
+* **Description**: I am researching about Deep Learning approaches in Single Image Super Resolution field. I am reading about Generative
+Adversarial Network (GAN) and constructing a model to solve the problem.
+* **Target**: A Deep Learning model creating a new image with high resolution from a low resolution counterpart. 
+* **Language**: Python + PyTorch/Tensorflow.
+
+-----
+
+## Object Recognition using Convolutional Neural Network
+
+[https://github.com/luke-dinh/Convolutional-Neural-Network](https://github.com/luke-dinh/Convolutional-Neural-Network)
+
+* **Time**: April 2020 -- May 2020.
+* **Role**: Leader, Programming.
+* **Description**: Our team’s small project in the course "Artificial Intelligence in Control Engineering". I constructed the architecture of 3 types of CNN: VGG16, VGG19, ResNet50 and used them for Object Recognition Problem.
+* **Target**: Comparing the accuracy of results trained by three models above.
+* **Language**: Python + OpenCV, Keras/Tensorflow.
+
+------
+
+
+## Bottle - Checking 
+*Our team's final project in Computer Vision classes*
+
+[https://github.com/luke-dinh/Bottle-checking](https://github.com/luke-dinh/Bottle-checking)
+
+* **Time**: Sep 2019 -- Dec 2019
+* **Role**: Member of a team of 4 members, in which, I were responsible for building algorithms and theory.
+* **Description**: The aim of the project was to construct a system that could check whether the labels and the liquid level of the product are qualified or not. The project included Image Processing and some Machine Learning techniques such as Otsu Thresholding, Object detection, etc.
+* **Result**: The system was able to check the labels and the liquid level corectly. 
+* **Language**: Python.
+
+------
+
 ## Digital Image Processing with MATLAB
 *A small project when I worked at my teacher's lab at HCMC University of Technology*
 
@@ -32,43 +82,5 @@ order: 1
 
 -----
 
-## Bottle - Checking 
-*Our team's final project in Computer Vision classes*
-
-[https://github.com/luke-dinh/Bottle-checking](https://github.com/luke-dinh/Bottle-checking)
-
-* **Time**: Sep 2019 -- Dec 2019
-* **Role**: Member of a team of 4 members, in which, I were responsible for building algorithms and theory.
-* **Description**: The aim of the project was to construct a system that could check whether the labels and the liquid level of the product are qualified or not. The project included Image Processing and some Machine Learning techniques such as Otsu Thresholding, Object detection, etc.
-* **Result**: The system was able to check the labels and the liquid level corectly. 
-* **Language**: Python.
-
-------
-
-## Object Recognition using Convolutional Neural Network
-
-[https://github.com/luke-dinh/Convolutional-Neural-Network](https://github.com/luke-dinh/Convolutional-Neural-Network)
-
-* **Time**: April 2020 -- May 2020.
-* **Role**: Leader, Programming.
-* **Description**: Our team’s small project in the course "Artificial Intelligence in Control Engineering". I constructed the architecture of 3 types of CNN: VGG16, VGG19, ResNet50 and used them for Object Recognition Problem.
-* **Target**: Comparing the accuracy of results trained by three models above.
-* **Language**: Python + OpenCV, Keras/Tensorflow.
-
-------
-
-## Image Super - Resolution using Deep Learning Techniques
-*Major Project*
-
-[https://github.com/luke-dinh/Image-Super-Resolution](https://github.com/luke-dinh/Image-Super-Resolution)
-
-* **Time**: Jan 2020 - July 2020.
-* **Role**: Individual.
-* **Description**: I am researching about Deep Learning approaches in Single Image Super Resolution field. I am reading about Generative
-Adversarial Network (GAN) and constructing a model to solve the problem.
-* **Target**: A Deep Learning model creating a new image with high resolution from a low resolution counterpart. 
-* **Language**: Python + PyTorch/Tensorflow.
-
-------
 [Go to the Home Page]({{ '/' | absolute_url }})
 
