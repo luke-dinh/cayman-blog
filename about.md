@@ -53,7 +53,7 @@ CS231n: Convolutional Neural Networks for Visual Recognition, organized by Stanf
 * **AI Engineer (Intern).**
 
 * Time: June 2020 - September 2020.
-* Location: (MTI Technology Vietnam)[https://mti-vietnam.vn/].
+* Location: [MTI Technology Vietnam](https://mti-vietnam.vn/).
 * Tasks completed: Generating and labeling Templates for OCR Project.
 
 * **Teaching Assistant.**
